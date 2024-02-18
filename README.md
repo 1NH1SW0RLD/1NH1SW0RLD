@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello
+working on inlight (video service website)
+learning to make games using python
 
 <!--
 **1NH1SW0RLD/1NH1SW0RLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
